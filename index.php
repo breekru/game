@@ -25,6 +25,13 @@ require_once "config.php";
 <body>
     <img src="/img/cgg_logo.png"/>
 <p>What category do you want to start in</p>
+<ul>Sports</ul>
+<ul>Technology</ul>
+<ul>History</ul>
+<ul>Pop Culture</ul>
+<ul>Music</ul>
+<ul>Art</ul>
+<ul>Movies</ul>
 </body>
 </html>
 
